@@ -6,7 +6,7 @@
 
 但 [ida-pro-mcp](https://github.com/mrexodia/ida-pro-mcp) 的設計因為多開造成 port 衝突時
 
-port number 會自動加一，所以就寫一個 MCP Gateway 讓 AI 可以一次處理所有 IDA 視窗
+port number 會自動加一，要手動修改 MCP Settings 太麻煩了，所以就寫一個 MCP Gateway 讓 AI 可以一次處理所有 IDA instance
 
 ## Requirements
 
