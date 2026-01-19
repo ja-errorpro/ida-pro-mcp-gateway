@@ -29,7 +29,7 @@ port number 會自動變更，要手動修改 MCP Settings 太麻煩了，所以
 	"ida-pro-mcp-gateway": {
 		"command": "node",
 		"args": [
-			"C:\\Users\\IJA\\source\\ida-mcp-gateway\\gateway.js"
+			"<Path-to-ida-mcp-gateway-repo>\\gateway.js"
 		]
 	}
   }
